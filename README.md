@@ -1,1 +1,2 @@
-# RB-DBMS
+# ChamanLal
+Raptakos Brett and Company Limited DBMS
